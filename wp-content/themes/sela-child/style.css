@@ -1,0 +1,17 @@
+/*
+ Theme Name:   Sela Child
+ Theme URI:    hhttps://wordpress.org/themes/sela/
+ Description:  Sela Child Theme
+ Author:       Porsha Robinson
+ Template:     sela
+ Version:      0.0.1
+*/
+
+
+h2.site-description {
+    font-family: "Sans-serif";
+}
+ 
+.wp-image-5 {
+    border-radius: 50px;
+}
